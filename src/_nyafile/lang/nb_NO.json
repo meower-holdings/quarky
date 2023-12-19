@@ -1,1 +1,5 @@
-{}
+{
+    "HEADER_WELCOME_SUB": "La oss logge inn for å bruke den nå!",
+    "HEADER_SERVICE_LOGIN": "Logg inn med tjenestene du ønsker at Quarky skal bruke.",
+    "HEADER_WELCOME": "Velkommen til Quarky~!"
+}
