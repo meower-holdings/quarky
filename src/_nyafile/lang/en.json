@@ -3,15 +3,14 @@
     "HEADER_WELCOME_SUB": "Let's sign in to use it now!",
     "HEADER_SERVICE_LOGIN": "Sign in with the services you want Quarky to use.",
     "DONE": "I'm done!",
-    "TELEGRAM_CONNECTING": "Connecting to Telegram... (this will take ~5 seconds)",
-
+    "TELEGRAM_CONNECTING": "Connecting to Telegram… (this will take ~5 seconds)",
     "CREDITS_BUTTON": "Acknowledgements",
     "QUARKY_NAME": "Quarky 2",
     "QUARKY_DESCRIPTION": "\"An alright chat app on Earth\" for Lightquark and Telegram",
     "QUARKY_BYLINE": "Hakase software © {{year}}",
     "QUARKY_VERSION": "Version {{version}} (\"{{codename}}\")",
     "CREDITS_SPECIAL_THANKS": "Special thanks",
-    "CREDITS_EMILIA": "Emilia for fixing various instances of horrendous code",
+    "CREDITS_EMILIA": "Emilia for various instances of fixing code",
     "CREDITS_BYE": "Bye for giving free tummy rubs",
     "CREDITS_SYNNE": "Synne for finding a mysterious bug I didn't fix"
 }

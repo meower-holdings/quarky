@@ -1,5 +1,16 @@
 {
     "HEADER_WELCOME_SUB": "Kirjaudutaan sisään!",
     "HEADER_SERVICE_LOGIN": "Kirjaudu sisään palveluilla joita haluat Quarkyn käyttävän.",
-    "HEADER_WELCOME": "Tervetuloa Quarkyyn~!"
+    "HEADER_WELCOME": "Tervetuloa Quarkyyn~!",
+    "CREDITS_SPECIAL_THANKS": "Erityiskiitokset",
+    "CREDITS_EMILIA": "Emilia eri koodi korjauksien vuoksi",
+    "CREDITS_BYE": "Bye ilmaisista vatsahankauksista",
+    "CREDITS_SYNNE": "Synne mystisen bugin löytämisestä (jota en korjannut)",
+    "QUARKY_DESCRIPTION": "Maailman paras pikaviestisovellus Lightquarkille ja Telegramille",
+    "QUARKY_BYLINE": "Hakase software © {{year}}",
+    "DONE": "Valmista tuli!",
+    "CREDITS_BUTTON": "Kiitokset",
+    "QUARKY_NAME": "Kvarkki 2",
+    "QUARKY_VERSION": "Versio {{version}} (\"{{codename}}\")",
+    "TELEGRAM_CONNECTING": "Yhdistetään Telegramiin.. (tämä kestää noin 5 sekuntia)"
 }
